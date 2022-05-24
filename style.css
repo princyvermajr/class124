@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/406/006/original/abstract-flat-fluid-organic-shapes-background-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+    font-family: 'Satisfy', cursive;
+
+}
+#d1{
+    background-color: pink;
+    border-radius:50px;
+    border:10px black double;
+  color: white;
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+canvas{
+  background-color: grey;
+}
